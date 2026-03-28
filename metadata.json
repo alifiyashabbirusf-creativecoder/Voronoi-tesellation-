@@ -1,0 +1,5 @@
+{
+  "name": "Voronoi & k-NN Explorer",
+  "description": "Interactive Voronoi tessellation and k-Nearest Neighbors clustering visualization.",
+  "requestFramePermissions": []
+}
